@@ -1,0 +1,48 @@
+_repo: The-journal-of-Montaigne-s-travels-in-Italy-by-way-of-Switzerland-and-Germany-in-1580-and-158__70840
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Waters, W. G. (William George)
+    alias: Waters, William George
+    birthdate: 1844
+    deathdate: 1928
+    gutenberg_agent_id: '8776'
+    url: http://www.gutenberg.org/2009/agents/8776
+creator:
+  author:
+    agent_name: Montaigne, Michel de
+    aliases:
+    - Montagne, Michel de
+    - Montaigne, Michel Eyquem de
+    birthdate: 1533
+    deathdate: 1592
+    gutenberg_agent_id: '1230'
+    url: http://www.gutenberg.org/2009/agents/1230
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Michel_de_Montaigne
+    - https://fr.wikipedia.org/wiki/Michel_de_Montaigne
+description: ''
+gutenberg_issued: '2023-05-24'
+identifiers:
+  gutenberg: '70840'
+language: en
+pgterms:marc904: https://archive.org/details/journalofmontaig01montuoft     https://archive.org/details/journalofmontaig02montuoft     https://archive.org/details/journalofmontaig03montuoft
+pgterms:marc905: 20210703132423montaigne
+pgterms:marc906: '1903'
+pgterms:marc907: UK
+production_note: Turgut Dincer, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUK :$bJohn Murray, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Description and travel'
+- !lcsh 'Germany -- Description and travel'
+- !lcsh 'Switzerland -- Description and travel'
+- !lcc 'D'
+- GITenberg
+title: The journal of Montaigne's travels in Italy by way of Switzerland and Germany
+  in 1580 and 1581, Volume 3 (of 3)
+url: http://www.gutenberg.org/ebooks/70840
