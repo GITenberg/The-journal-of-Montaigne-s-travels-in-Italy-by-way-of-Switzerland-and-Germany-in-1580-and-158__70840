@@ -8,6 +8,9 @@ contributor:
     deathdate: 1928
     gutenberg_agent_id: '8776'
     url: http://www.gutenberg.org/2009/agents/8776
+covers:
+- cover_type: archival
+  image_path: 70840-h/images/cover.jpg
 creator:
   author:
     agent_name: Montaigne, Michel de
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Michel_de_Montaigne
     - https://fr.wikipedia.org/wiki/Michel_de_Montaigne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70840#The-journal-of-Montaigne-s-travels-in-Italy-by-way-of-Switzerland-and-Germany-in-1580-and-158_
 gutenberg_issued: '2023-05-24'
 identifiers:
   gutenberg: '70840'
